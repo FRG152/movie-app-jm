@@ -1,12 +1,23 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/bb106c09-5ba0-4fc5-84b5-2b4e5a77c664)# Movie App / React + ViteJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Preview
 
-Currently, two official plugins are available:
+![Gamerlix Demo](![image](https://github.com/user-attachments/assets/62121c38-bcd9-425f-b66f-9cfa69970c27))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View Live Site](https://elegant-mochi-ee9de2.netlify.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Recommended Development Setup
+
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Extension**: [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+---
+
+## ⚙️ Project Setup
+
+### Install Dependencies
+
+```bash
+npm install
