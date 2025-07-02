@@ -1,12 +1,15 @@
-![image](https://github.com/user-attachments/assets/bb106c09-5ba0-4fc5-84b5-2b4e5a77c664)# Movie App / React + ViteJS
+# Movie App / React + ViteJS
 
 ## 🌐 Live Preview
 
-![Gamerlix Demo](![image](https://github.com/user-attachments/assets/62121c38-bcd9-425f-b66f-9cfa69970c27))
+![image](![image](https://github.com/user-attachments/assets/c4443d51-f17e-45a1-bf34-b88ef8a91c66))
 
 👉 [View Live Site](https://elegant-mochi-ee9de2.netlify.app)
 
 ---
+> **Description About This Project**
+> This project comes from this youtube course that I'm following (Recommended).
+👉 [Link]([https://elegant-mochi-ee9de2.netlify.app](https://www.youtube.com/watch?v=8vIDZO_w7lY&t=5722s))
 
 ## 🛠️ Recommended Development Setup
 
